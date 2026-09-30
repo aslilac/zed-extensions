@@ -5138,6 +5138,10 @@
 	path = extensions/sqlmesh
 	url = https://github.com/GitToby/zed-sqlmesh.git
 
+[submodule "extensions/squill-language-server"]
+	path = extensions/squill-language-server
+	url = https://github.com/aslilac/squill.git
+
 [submodule "extensions/squirrel"]
 	path = extensions/squirrel
 	url = https://github.com/mnshdw/squirrel-lsp-zed.git

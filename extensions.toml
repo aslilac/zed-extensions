@@ -5249,6 +5249,11 @@ version = "0.1.0"
 submodule = "extensions/sqlmesh"
 version = "0.1.4"
 
+[squill-language-server]
+submodule = "extensions/squill-language-server"
+path = "integrations/zed"
+version = "0.1.0"
+
 [squirrel]
 submodule = "extensions/squirrel"
 version = "0.1.0"
